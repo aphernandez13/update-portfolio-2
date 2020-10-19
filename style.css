@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(7, 5, 5, 0.842);
+    background-color: rgba(10, 3, 3, 0.842);
    
 }
 
@@ -90,4 +90,8 @@ section {
         margin-top: 10px;
         margin-bottom: 10px;
         color: white;
+    }
+
+    .btn {
+        justify-content: center;
     }
